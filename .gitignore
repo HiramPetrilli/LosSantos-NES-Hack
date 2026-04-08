@@ -1,0 +1,13 @@
+# ROMs originales y hacks binarios
+roms/base/*.nes
+roms/work/*.nes
+
+# Builds generadas
+roms/builds/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Reconstrucciones IPS
+rebuilt_from_ips.nes
